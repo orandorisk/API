@@ -1,0 +1,7 @@
+//method json
+//php   :   json_encode()   ->  mengubah objek atau array ke format json    
+            json_decode()   ->  mengambil file json diubah ke objek atau array  
+        :   file_get_contents   ->  mendapatkan nilai json
+
+//javascript    :   JSON.stringify()    ->  mengubah objek jadi json
+                    JSON.parse()        ->  mengubah json jadi objek
